@@ -1,1 +1,1 @@
-## See jupyter notebook file -> HW1.ipynb
+## See the jupyter notebook file -> HW1.ipynb
